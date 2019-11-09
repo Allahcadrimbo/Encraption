@@ -1,6 +1,6 @@
 # Encraption
 Three insecure ciphers (hence encraption).  
 
-### Vigener Cipher
+### Vigenere Cipher
 ### Columnar Cipher
 ### Product Cipher
